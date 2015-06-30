@@ -1,2 +1,3 @@
-# Design
-Creative content for our apps
+# Creative Content
+
+The creative content and media that we have made for our apps
